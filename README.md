@@ -1,2 +1,3 @@
 # accedo
 simulador de login
+en este proyecto no utilice html, css y php, puesto que no domino bien estos lenguajes, pero me comprometere a estudiarlo para poder dominarlo puesto que recien me estoy aventurando el mundo de la programacion,  pero este proyecto lo hice con java y cree la parte logica, hice  un simulador de un login en el que le doy cuenta de usuario y contraseña para que inicie sesion, al iniciar sesion abra una lista de pokemones de los cuales tendra que escoger una opcion para ver sus caracteristicas y para finalizar le agregue un combate entre pokemones, usando sus caracteristicas.
